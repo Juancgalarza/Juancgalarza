@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nest Js con Angular**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP,ANGULAR, LARAVEL, IONIC**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, BOOTSTRAP, ANGULAR, LARAVEL, IONIC**
 
 - 📫 How to reach me **email and whatsapp**
 
